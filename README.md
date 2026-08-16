@@ -1,36 +1,125 @@
 # Google Sheets & Data Analysis Portfolio
 
-## About This Repository
+## About Me
 
-This repository showcases my work in **Google Sheets, Excel, data analysis, web research, data extraction, data cleaning, web scraping, and large dataset processing**.
+I work on **Google Sheets, Excel, data analysis, web research, data extraction, data cleaning, web scraping, and large dataset processing**.
 
-The projects cover education, medical counselling, competitive examinations, government data, institutional records, historical data, legal research, and other custom data-analysis projects.
+I specialise in converting **raw, unstructured, scattered, or difficult-to-process information** into clean, structured, searchable, and useful datasets.
 
-My focus is on taking **raw, unstructured, scattered, or difficult-to-process information** and converting it into structured, searchable, and useful datasets.
+My work includes education and examination data, medical counselling data, government and institutional records, historical datasets, legal research, and custom data-analysis projects.
+
+For freelance work, data analysis, Google Sheets, Excel, research, data extraction, or web scraping projects:
+
+**Email:** [abdullah@dobbin.in](mailto:abdullah@dobbin.in)
+
+---
+
+## What I Can Do
+
+* Google Sheets data cleaning
+* Excel data cleaning and analysis
+* Large dataset processing
+* Web research and data collection
+* Website-to-Google-Sheets data extraction
+* Website-to-Excel data extraction
+* PDF-to-Excel conversion
+* PDF-to-Google-Sheets conversion
+* Web scraping
+* Data deduplication
+* Data matching and reconciliation
+* Data standardisation
+* Custom Google Sheets formulas
+* Automated spreadsheet workflows
+* Examination and education datasets
+* Research datasets
+* Historical data digitisation
+* Government and institutional data collection
 
 ---
 
 ## Core Skills
 
-**Google Sheets**
+### Google Sheets
 
 `FILTER` `QUERY` `XLOOKUP` `ARRAYFORMULA` `REGEX` `IMPORTRANGE` `SORT` `UNIQUE` `Data Validation` `Conditional Formatting`
 
-**Data Analysis**
+### Data Analysis
 
 `Data Cleaning` `Data Transformation` `Data Validation` `Data Matching` `Deduplication` `Data Structuring` `Large Dataset Processing`
 
-**Data Collection**
+### Data Collection
 
 `Web Research` `Web Data Extraction` `Web Scraping` `PDF Data Extraction` `Historical Data Digitisation`
 
-**Tools**
+### Tools
 
 `Google Sheets` `Microsoft Excel` `Power Query` `Python` `Google Colab` `Linux / Shell`
 
 ---
 
+# How I Work
+
+**1. Raw Data**
+
+Website / PDF / Excel / CSV / Documents / Unstructured Information
+
+↓
+
+**2. Data Collection**
+
+Research / Extraction / Scraping / Manual Verification
+
+↓
+
+**3. Data Cleaning**
+
+Formatting / Standardisation / Deduplication / Validation
+
+↓
+
+**4. Data Processing**
+
+Formulas / Queries / Matching / Filtering / Analysis
+
+↓
+
+**5. Final Dataset**
+
+Clean / Structured / Searchable / Usable Google Sheet or Excel File
+
+---
+
+# Why Work With Me
+
+I am comfortable working with datasets that are:
+
+* Large
+* Messy
+* Repetitive
+* Scattered across multiple websites
+* Available only in PDFs
+* Poorly formatted
+* Difficult to search
+* Difficult to analyse
+* Requiring custom formulas or data processing
+
+I focus on producing a **clean, organised, reproducible, and practical final dataset** rather than simply copying information.
+
+---
+
+# Freelance Services
+
+I am available for freelance projects involving:
+
+**Google Sheets | Excel | Data Analysis | Web Research | Data Extraction | Web Scraping | Data Cleaning | Research**
+
+If you have a data-related task that is difficult to handle manually, feel free to contact me.
+
+---
+
 # Featured Projects
+
+The following projects demonstrate examples of my work across different types of datasets.
 
 ## Medical & Counselling Data
 
@@ -170,90 +259,14 @@ Google Sheets-based analysis for calculating printing costs.
 
 ---
 
-# What I Can Help With
-
-I am available for freelance projects involving:
-
-* Google Sheets data cleaning
-* Excel data cleaning and analysis
-* Large dataset processing
-* Web research
-* Web data collection
-* Website-to-Google-Sheets data extraction
-* Website-to-Excel data extraction
-* PDF-to-Excel conversion
-* PDF-to-Google-Sheets conversion
-* Web scraping
-* Data deduplication
-* Data matching and reconciliation
-* Data standardisation
-* Custom Google Sheets formulas
-* Automated spreadsheet workflows
-* Examination and education datasets
-* Research datasets
-* Historical data digitisation
-* Government and institutional data collection
-
----
-
-# My Approach
-
-**Raw Data**
-
-Website / PDF / Excel / CSV / Documents / Unstructured Information
-
-↓
-
-**Data Collection**
-
-Research / Extraction / Scraping / Manual Verification
-
-↓
-
-**Data Cleaning**
-
-Formatting / Standardisation / Deduplication / Validation
-
-↓
-
-**Data Processing**
-
-Formulas / Queries / Matching / Filtering / Analysis
-
-↓
-
-**Final Dataset**
-
-Clean / Structured / Searchable / Usable Google Sheet or Excel File
-
----
-
-# Freelance Data Services
-
-If you have a dataset that is **large, messy, repetitive, scattered across websites, stored in PDFs, or difficult to analyse**, I can help convert it into a structured and usable spreadsheet.
-
-I am particularly interested in projects involving:
-
-**Google Sheets | Excel | Data Analysis | Web Research | Data Extraction | Web Scraping | Data Cleaning | Research**
-
----
-
 # Portfolio
 
-This repository is continuously updated with new projects and datasets.
+This repository is continuously updated with new projects involving **Google Sheets, Excel, data analysis, research, data extraction, web scraping, and structured datasets**.
 
 **GitHub:** [mdabdullah0](https://github.com/mdabdullah0)
 
-**Repository:** [Google Sheets Portfolio](https://github.com/mdabdullah0/google-sheet)
+**Repository:** [Google Sheets & Data Analysis Portfolio](https://github.com/mdabdullah0/google-sheet)
 
 ---
 
-# Contact
-
-For freelance data analysis, Google Sheets, Excel, research, data extraction, or web data projects:
-
-**Email:** [abdullah@dobbin.in](mailto:abdullah@dobbin.in)
-
----
-
-*This repository is a portfolio of selected personal and research projects. Data sources and access permissions may vary by project.*
+*This repository contains selected personal and research projects. Data sources, availability, and access permissions may vary by project.*
